@@ -8,6 +8,9 @@ namespace Kunden;
 
 public class Kunde
 {
-   
+   public double GetRabatt()
+   {
+        return 0;
+   }
 
 }
