@@ -8,7 +8,7 @@ namespace Kunden;
 
 public class Kunde
 {
-   public double GetRabatt()
+   public virtual double GetRabatt()
    {
         return 0;
    }
